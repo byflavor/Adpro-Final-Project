@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Hospital
+comment0.text=\r\n\ @author\ Rashmi\ Alawani\r\n\ @version\ 5/21\r\n\ Hospital\ class\ that\ deals\ with\ Patient\ circular\ buffer\ and\ printing\ methods\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=Hospital()
+comment3.params=roomNumber
+comment3.target=void\ displayStatus(int)
+comment4.params=
+comment4.target=void\ printExitStatus()
+comment4.text=\r\n\ different\ exit\ status\ depending\ on\ if\ you\ quit\ halfway\ or\ if\ you\ actually\ lose\ the\ game\r\n
+comment5.params=index
+comment5.target=void\ decrementHealth(int)
+comment5.text=\r\n\ decrease\ helath\ of\ patients\ that\ arent\ visited\ yet\r\n\ @param\ index\r\n
+comment6.params=
+comment6.target=void\ populateRooms()
+comment6.text=\r\n\ fills\ array\ by\ reading\ the\ next\ people\ from\ the\ list\r\n\ @throws\ FileNotFoundException\r\n
+comment7.params=
+comment7.target=void\ checkOnPatients()
+numComments=8

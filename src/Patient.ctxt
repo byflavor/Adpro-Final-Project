@@ -1,0 +1,39 @@
+#BlueJ class context
+comment0.target=Patient
+comment0.text=\r\n\ @author\ Rashmi\ Alawani\r\n\ @version\ 5/21\r\n\ Patient\ class\ that\ deals\ with\ an\ individual\ patient's\ health\r\n
+comment1.params=name\ room
+comment1.target=Patient(java.lang.String,\ int)
+comment10.params=
+comment10.target=int\ getRoom()
+comment10.text=\r\n\ Return\ room\ of\ patient\r\n
+comment11.params=
+comment11.target=void\ getWorse()
+comment11.text=\r\n\ Decrease\ health\ by\ 5\r\n
+comment12.params=dosage
+comment12.target=void\ getBetter(int)
+comment12.text=\r\n\ Increase\ health\ by\ a\ random\ number\r\n
+comment2.params=
+comment2.target=boolean\ cured()
+comment2.text=\r\n\ Patient\ is\ cured\ and\ can\ leave\ if\ health\ >\=80\r\n
+comment3.params=
+comment3.target=boolean\ died()
+comment3.text=\r\n\ Patient\ is\ dead\ and\ gives\ room\ to\ new\ patient\ if\ health<\=0\r\n
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment4.text=\r\n\ Return\ name\ of\ patient\r\n
+comment5.params=s
+comment5.target=void\ setName(java.lang.String)
+comment5.text=\r\n\ Set\ patient\ name\r\n
+comment6.params=
+comment6.target=int\ getAge()
+comment6.text=\r\n\ Return\ age\ of\ patient\r\n
+comment7.params=age
+comment7.target=void\ setAge(int)
+comment7.text=\r\n\ Set\ age\ to\ new\ age\r\n
+comment8.params=
+comment8.target=int\ getHealth()
+comment8.text=\r\n\ Return\ health\ of\ patient\r\n
+comment9.params=health
+comment9.target=void\ setHealth(int)
+comment9.text=\r\n\ Set\ health\ to\ new\ health\r\n
+numComments=13

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Doctor
+comment0.text=\r\n\ @author\ Rashmi\ Alawani\r\n\ @version\ 5/21\r\n\ Doctor\ class\ that\ deals\ with\ giving\ patients\ health\r\n
+comment1.params=medicine
+comment1.target=Doctor(int)
+comment2.params=p
+comment2.target=void\ seeNextPatient(Patient)
+comment3.params=
+comment3.target=int\ hasMedicine()
+numComments=4
